@@ -1,0 +1,24 @@
+{
+  "name": "crytoprice-dash",
+  "authors": [
+    "ktsiang"
+  ],
+  "description": "CrytoPrice Dashboard Custom Element built with Polymer 2.0",
+  "main": "",
+  "keywords": [
+    "Polymer"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#2.0.0"
+  }
+}
